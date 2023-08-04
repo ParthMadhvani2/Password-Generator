@@ -1,6 +1,6 @@
 # Password-Generator
 
-[Live Preview]()
+[Live Preview](https://parthmadhvani2.github.io/Password-Generator/)
 
 Created a random password generator website
 
